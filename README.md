@@ -1,2 +1,0 @@
-# MovieDB
-Created with CodeSandbox
